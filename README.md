@@ -13,4 +13,4 @@ The prediction process typically starts with data collection, where historical s
 - **Prediction**: Forecast future stock prices using the trained model.
 - **Challenges**: Consider external factors like market trends and competition.
 - **Applications**: Aid investors and analysts with valuable financial insights.
-- **Example**: An RNN model predicted Apple Inc.'s stock with 93%-97% accuracy【3†source】.
+- **Example**: An RNN model predicted Apple Inc.'s stock with 93%-97% accuracy.
